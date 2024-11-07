@@ -7,6 +7,7 @@ public class Permutations {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         printPermutations(s,"");
+        sc.close();
     }
 
 
